@@ -14,7 +14,9 @@
 This project was created by Andrada Pricop.
 
 
-### Behave Test Reports
+### Behave Test Report
+This report provides a summary of BDD test results, showing the number of features that passed (2), the count of scenarios executed without errors (3), highlights the total number of individual test steps that passed validation (11) and provides the duration of the test execution (28.1 seconds). 
+
 ![BehaveTestReport](https://github.com/Andrada2192/BDD_PROJECT_Elefant/blob/main/BehaveTestReport.jpeg)  
 
 
