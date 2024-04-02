@@ -10,8 +10,11 @@
 
   - Search an item that doesn't exist: This scenario simulates the actions of searching an item that doesn't exist on elefant.ro website
 
+### Author
+This project was created by Andrada Pricop.
 
 
+### Behave Test Reports
+![BehaveTestReport](https://github.com/Andrada2192/BDD_PROJECT_Elefant/blob/main/BehaveTestReport.jpeg)  
 
-![BehaveTestReport](https://github.com/Andrada2192/BDD_PROJECT_Elefant/blob/main/BehaveTestReport.jfif)  
 
