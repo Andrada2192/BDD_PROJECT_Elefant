@@ -5,7 +5,9 @@
 
 # Included BDD Scenarios
 Verify if when leaving only mandatory fields empty formular can't be submitted: This scenario outlines that contact form from contact page prevents submission when only mandatory fields are left empty 
+
 Search given item and verify if the list displayed contains more than 10: This scenario simulates the actions of searching an item on elefant.ro website
+
 Search an item that doesn't exist: This scenario simulates the actions of searching an item that doesn't exist on elefant.ro website
 
 
